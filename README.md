@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/github/forks/usmanahabbir/ALFAREZI-MD?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/usmanahabbir/Alfarzi-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+    <img src="https://img.shields.io/github/stars/naveeddogar/KINg-MD?style=social">
       
   
  
